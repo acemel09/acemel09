@@ -1,4 +1,5 @@
 ### Hi there 👋
+I have interested to gain a knowledge to become a programmer
 
 <!--
 **acemel09/acemel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
